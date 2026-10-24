@@ -1,0 +1,19 @@
+FAQ's
+1.What is Queue?
+Ans: Queue is linear data structure in which data can be inserted from rear end and deleted from front end.
+2. How queue is represented?
+Ans: Queue can be represented using array and linked list.
+3.Enlist types of queues.
+1)Linear queue 2)Circular queue 3)Priority queue etc
+4.What is the concept of circular queue.
+Ans: .In a circular queue last node is connected back to first node to make a circle.
+5.Applications of Queue.
+Ans: 1)categorizing the data 2)Queue simulation 
+6:What is priority queue?
+Ans:1) A priority queue is a collection of elements where each element is assigned a priority and the order in which elements are deleted and processed is determined from the following rules:
+An element of higher priority is processed before any element of lower priority.
+2)Two elements with the same priority are processed according to the order in which they are added to the queue.
+7.What is Deque?
+Ans: The term deque is contraction of name double-ended –queue.
+It is a linear list in which elements can be added or removed at either end but not in the middle
+
